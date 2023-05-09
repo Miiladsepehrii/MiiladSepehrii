@@ -41,9 +41,3 @@ I'm currently working on Parsatec.com<br>I'm looking to collaborate on programmi
 ![](https://github-contributor-stats.vercel.app/api?username=Miladparsa&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=Miladparsa&icon=2&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
